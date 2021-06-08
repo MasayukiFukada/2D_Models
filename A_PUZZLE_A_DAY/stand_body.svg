@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="http://www.librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="88mm" height="70mm" viewBox="0 0 88 70">
+    <g lc:layername="outline" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <line x1="0" y1="70" x2="11.8" y2="70"/>
+        <line x1="11.8" y1="70" x2="11.8" y2="60"/>
+        <line x1="11.8" y1="60" x2="15" y2="60"/>
+        <line x1="15" y1="60" x2="15" y2="70"/>
+        <line x1="15" y1="70" x2="65" y2="70"/>
+        <line x1="65" y1="70" x2="65" y2="60"/>
+        <line x1="65" y1="60" x2="68.2" y2="60"/>
+        <line x1="68.2" y1="60" x2="68.2" y2="70"/>
+        <line x1="68.2" y1="70" x2="80" y2="70"/>
+        <path d="M0,70 C0,60 5,50 11.8,50 "/>
+        <path d="M80,69 C80,60 77.5,55 74.55,52.5 C71.6,50 68.2,50 68.2,50 "/>
+        <path d="M40,0 C25,0 25,5 25,5 "/>
+        <path d="M40,0 C55,0 55,5 55,5 "/>
+        <line x1="25" y1="5" x2="25" y2="47"/>
+        <line x1="55" y1="5" x2="55" y2="47"/>
+        <line x1="20" y1="50" x2="11.8" y2="50"/>
+        <line x1="60" y1="50" x2="68.2" y2="50"/>
+        <path d="M20,50 C25,50 25,47 25,47 "/>
+        <path d="M60,50 C55,50 55,47 55,47 "/>
+    </g>
+</svg>
